@@ -1,6 +1,7 @@
 # LoraParticulateMatterSensor
 - [ELV LoRaWAN® Feinstaubsensor, ELV-LW-SPM](https://de.elv.com/p/elv-lorawan-feinstaubsensor-elv-lw-spm-P160408)
 - [ELV LoRaWAN® Feinstaubsensor - ELV stellt vor! (Youtube)](https://www.youtube.com/watch?v=3JDZIYmv3bQ)
+- [arduino-sps](https://github.com/Sensirion/arduino-sps)
 
 A fine dust sensor that transmits sensor values via the LoRaWAN network. The power supply can be from **5-40V DC**. A Sensirion SPS30 sensor is installed inside.
 
